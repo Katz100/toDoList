@@ -340,7 +340,7 @@ void UnitTest() {
 
 void programGreeting() {
   cout << "\nProgram for users to enter items into a to do list\nCody "
-          "Hopkins\n11-6-2022\n\nEnter '+' followed by a space to enter "
+          "\n11-6-2022\n\nEnter '+' followed by a space to enter "
           "todos\nEnter '-' followed by a space and the id number to remove an "
           "item\nEnter '?' to show all items\nEnter '/' to quit.\n";
 }
